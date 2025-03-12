@@ -31,39 +31,56 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 ## Procedure
 
 1. Click on STM 32 CUBE IDE, the following screen will appear
-![STM 32 CUBE IDE](image-link-placeholder)
+ ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
+
 
 2. Click on FILE, click on new stm 32 project
-![New Project](image-link-placeholder)
+![image](https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png)
+![image](https://user-images.githubusercontent.com/36288975/226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc.png)
 
 3. Select the target to be programmed as shown below and click on next
-![alt text](<Screenshot 2025-03-11 134231.png>)
+![Screenshot 2025-03-11 134231](https://github.com/user-attachments/assets/09e61f3d-224f-4ca8-96d4-7336869df5c7)
 
 4. Select the program name
-![Program Name](image-link-placeholder)
+![image](https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711.png)
 
 5. Corresponding ioc file will be generated automatically
-![alt text](<Screenshot 2025-03-11 134528.png>)
+![Screenshot 2025-03-11 134528](https://github.com/user-attachments/assets/df427edd-e24a-4612-a858-aeae859b379f)
+
 
 6. Select the appropriate pins as GPIO, in or out, USART or required options and configure
-![alt text](<Screenshot 2025-03-11 134617.png>)
+![Screenshot 2025-03-11 134617](https://github.com/user-attachments/assets/125ee548-30b1-4c88-932f-adf07984522f)
+![Screenshot 2025-03-11 134642](https://github.com/user-attachments/assets/0adfbb58-4cad-408a-9300-f4808b53cac4)
+
 
 7. Click on Ctrl+S, automatically C program will be generated
-![alt text](<Screenshot 2025-03-11 134709.png>)
+![Screenshot 2025-03-11 134709](https://github.com/user-attachments/assets/70b83b79-1569-4f14-99d5-e2adbb4e692d)
 
-8. Edit the program as per required
-![Edit Program](image-link-placeholder)
+8. Edit the program and as per required 
 
-9. Use project and build all
-![Build Project](image-link-placeholder)
+![image](https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png)
 
-10. Once the project is built
-![Project Built](image-link-placeholder)
 
-11. open STM32CUBE programmer
-![alt text](<Screenshot 2025-03-11 135208.png>)
+9. Use project and build all 
 
-12. Connect the STM board through the COM port, then upload the corresponding project ELF file while ensuring the board is in flash mode, and click on 'Start Program.' After the file download is complete, switch your board to run mode and press the reset button to see the output.
+![image](https://user-images.githubusercontent.com/36288975/226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec.png)
+
+10. Once the project is bulild 
+
+![image](https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png)
+
+11. Open STM32Cube Programmer
+
+![Screenshot 2025-03-11 135208](https://github.com/user-attachments/assets/bb67ab6b-81a5-450c-b170-4276a9b87ef2)
+
+
+
+12. Connect the STM board through the COM port, then upload the corresponding project ELF file while ensuring the board is in flash mode, and click on 'Start Program.' After the file download is complete, switch your board to run mode and press the reset button to see the output
+
+
+
+
+
 
 ## STM 32 CUBE PROGRAM
 
