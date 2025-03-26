@@ -1,4 +1,4 @@
-# EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
+# EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
 **DATE:**
@@ -11,7 +11,7 @@
 
 ## Aim
 
-To Interface a Digital output (LED) to ARM IOT development board and write a program to blink an LED.
+To Interface a Digital Input (IR pair ) to ARM IOT development board and write a program to obtain the data
 
 ## Components required
 
@@ -84,7 +84,7 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 
 ## STM 32 CUBE PROGRAM
 
-```c
+```
 // Your STM 32 CUBE Program code here
 ```
 
@@ -92,4 +92,4 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 
 ## Result
 
-Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
+Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
