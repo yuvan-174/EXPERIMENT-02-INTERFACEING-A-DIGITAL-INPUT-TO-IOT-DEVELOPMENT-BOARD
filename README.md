@@ -119,8 +119,9 @@ void IRPAIR()
 ```
 
 ## OUTPUT
-
+## OBJECT NOT DETECTED:
 ![IMG20250326110915](https://github.com/user-attachments/assets/2704a7cc-1ef4-41c3-b879-b20a0b896934)
+## OBJECT DETECTED:
 ![IMG20250326110932](https://github.com/user-attachments/assets/5b98d54d-0d3f-4dc5-b2b0-a2680b2b6d82)
 
 ## Result
